@@ -1,5 +1,3 @@
-# Portfolio
-
 My personal website built while learning front-end development.
 
 Technologies used:
@@ -8,6 +6,6 @@ Technologies used:
 - JavaScript (learning)
 - GitHub Pages (basic deployment)
 
-https://dovydas333.github.io/portfolio/
+Live site: https://dovydas333.github.io/portfolio/
 
 More projects will be added as I continue learning.
