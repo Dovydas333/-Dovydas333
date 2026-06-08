@@ -1,14 +1,12 @@
-# CarFix Project
+# Portfolio
 
-A modern and clean car service landing page built using **HTML** and **CSS**.
+My personal website built while learning front-end development.
 
-## Features
-- Responsive design
-- Clean and modern layout
-- Services section
-- Testimonials
-- Contact information
+Technologies used:
 
-## Author
-**Dovydas Valančius**
-Front-end Developer
+* HTML
+* CSS
+* Git
+* GitHub
+
+More projects will be added as I continue learning.
