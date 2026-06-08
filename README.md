@@ -1,13 +1,17 @@
 # CarFix Project
 
-A modern car service landing page built using **HTML** and **CSS**.
+A modern and clean car service landing page built using **HTML** and **CSS**.
 
 ## Features
 - Responsive design
-- Clean layout
+- Clean and modern layout
 - Services section
 - Testimonials
 - Contact information
-- 
+
+## Live Demo
+(Will be added once GitHub Pages is enabled)
+
 ## Author
-Dovydas Valančius
+**Dovydas Valančius**
+Front-end Developer
