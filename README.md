@@ -8,9 +8,6 @@ A modern car service landing page built using **HTML** and **CSS**.
 - Services section
 - Testimonials
 - Contact information
-
-## Live Demo
-(Įdėsi kai įjungsim GitHub Pages)
-
+- 
 ## Author
 Dovydas Valančius
